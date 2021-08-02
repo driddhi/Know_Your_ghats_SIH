@@ -8,4 +8,10 @@ Ghats are the series of steps leading down to a body of water or wharf. Ghats ar
 3.PHP to connect with the database.
 
 # How to Install The Project
+Open Android Studio and import the project.
+/n Start Apache and MySQL Server in XAMPP Server.
+/n Open your MainActivity.java file. Here, you need to provide your current IP Address to connect to the local server (XAMPP).
+/n Run the Application, followed by choosing the virtual machine . Now, click "OK".
 
+If you want to run the application on your phone you have to connect your phone with the laptop. You have to turn on the "USB Debugging" option and from the android studio 
+you have to select your device and then run.
