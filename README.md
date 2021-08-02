@@ -11,7 +11,21 @@ Ghats are the series of steps leading down to a body of water or wharf. Ghats ar
 Open Android Studio and import the project.<br>
  Start Apache and MySQL Server in XAMPP Server.<br>
  Open your MainActivity.java file. Here, you need to provide your current IP Address to connect to the local server (XAMPP).<br>
- Run the Application, followed by choosing the virtual machine . Now, click "OK".<br>
-
-If you want to run the application on your phone you have to connect your phone with the laptop. You have to turn on the "USB Debugging" option and from the android studio 
-you have to select your device and then run.
+ 
+ # Run on a Real Device
+ 1. Connect your device to your development machine with a USB cable. <br>
+ <br>
+ 3.Perform the following steps to enable USB debugging in the Developer options window:<br>
+  a.Open the Settings app.<br>
+  b.If your device uses Android v8.0 or higher, select System. Otherwise, proceed to the next step.<br>
+  c.Scroll to the bottom and select About phone.<br>
+  d.Scroll to the bottom and tap Build number seven times.<br>
+  e.Return to the previous screen, scroll to the bottom, and tap Developer options.<br>
+  f.In the Developer options window, scroll down to find and enable USB debugging.<br>
+  <br>
+4.Run the app on your device as follows:<br>
+ In Android Studio, select your app from the run/debug configurations drop-down menu in the toolbar.
+ In the toolbar, select the device that you want to run your app on from the target device drop-down menu.
+ Target device drop-down menu.<br>
+ <br>
+5.Click Run .
