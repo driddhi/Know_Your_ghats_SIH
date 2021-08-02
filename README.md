@@ -13,7 +13,7 @@ Open Android Studio and import the project.<br>
  Open your MainActivity.java file. Here, you need to provide your current IP Address to connect to the local server (XAMPP).<br>
  
  # Run on a Real Device
- 1. Connect your device to your development machine with a USB cable. <br>
+ 1.Connect your device to your development machine with a USB cable. <br>
  <br>
  2.Perform the following steps to enable USB debugging in the Developer options window:<br>
  <br>
@@ -26,9 +26,9 @@ Open Android Studio and import the project.<br>
   <br>
 4.Run the app on your device as follows:<br>
 <br>
-  In Android Studio, select your app from the run/debug configurations drop-down menu in the toolbar.
-  In the toolbar, select the device that you want to run your app on from the target device drop-down menu.
-  Target device drop-down menu.<br>
+  a. In Android Studio, select your app from the run/debug configurations drop-down menu in the toolbar.<br>
+  b. In the toolbar, select the device that you want to run your app on from the target device drop-down menu.<br>
+  c. Target device drop-down menu.<br>
 <br>
 5.Click Run .
 
